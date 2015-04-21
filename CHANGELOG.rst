@@ -2,6 +2,45 @@
 Changelog for package rail_segmentation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.5 (2015-04-15)
+------------------
+* Added center point calculation for segmented objects
+* Contributors: David Kent
+
+0.1.4 (2015-04-14)
+------------------
+* quick travis fix
+* old parser format
+* Update .travis.yml
+* Contributors: Russell Toris
+
+0.1.3 (2015-04-10)
+------------------
+* bounding box info added
+* Contributors: Russell Toris
+
+0.1.2 (2015-04-03)
+------------------
+* cmake cleanup
+* header cleanup
+* header cleanup
+* header cleanup
+* checks for incoming point cloud first
+* new lines added
+* new lines added
+* more const ptrs
+* moved to ptr based storage
+* const ptrs
+* Contributors: Russell Toris
+
+0.1.1 (2015-03-31)
+------------------
+* segmentation debug is now latched
+* Merge branch 'develop' of github.com:WPI-RAIL/rail_segmentation into develop
+* redid zones for default
+* Fixed centroid calculation when the segmentation frame doesn't match the bounding box frame
+* Contributors: David Kent, Russell Toris
+
 0.1.0 (2015-03-24)
 ------------------
 * added RGB image to message
